@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @CLRKSTVEN
-- 👀 I’m interested to learn coding languages.
 
 
 <!---
